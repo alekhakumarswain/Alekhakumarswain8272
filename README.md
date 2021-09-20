@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Alekhakumarswain8272
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Alekhakumarswain
+- 👀 I’m interested in coding
+- 🌱 I’m currently doing my graduation. ..
+- 💞️ I’m looking to collaborate on software 
+- 📫 reach me through by searching my name on google
 
 <!---
 Alekhakumarswain8272/Alekhakumarswain8272 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
